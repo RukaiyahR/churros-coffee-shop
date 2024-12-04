@@ -242,7 +242,7 @@
         <section id="contact">
             <h2>Contact Us</h2>
             <p>For inquiries or feedback, feel free to reach out:</p>
-            <p><strong>Email:</strong> info@mychurrosandcoffee.com</p>
+            <p><strong>Email:</strong> info@churrosandco.com</p>
             <p><strong>Phone:</strong> (123) 456-7890</p>
             <p>Follow us on social media:  
                 <a href="#">Instagram</a> | <a href="#">Facebook</a>
@@ -252,7 +252,7 @@
     </main>
 
     <footer>
-        <p>© 2024 My Churros and Coffee Shop | All Rights Reserved</p>
+        <p>© 2024 Churros & Co. | All Rights Reserved</p>
     </footer>
 
 </body>
